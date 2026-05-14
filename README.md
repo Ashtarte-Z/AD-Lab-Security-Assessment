@@ -250,7 +250,7 @@ python3 /usr/share/doc/python3-impacket/examples/secretsdump.py \
 
 *NTDS.DIT — Full Domain Credential Dump via DRSUAPI:*
 
-![secretsdump — NTDS.DIT All Domain Hashes](screenshots/09_secretsdump_ntds.png)
+![secretsdump — NTDS.DIT All Domain Hashes](screenshots/09_secretsdumps_ntds.png)
 
 *Extracted:*
 
